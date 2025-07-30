@@ -72,9 +72,9 @@ Algorithms tested:
 
 ## 📈 Results
 
-- Final model: **Neural Networks** using **MinMax** scaling method
-- Achieved **F1-weighted score of 0.78506** on validation set  
-- Submitted predictions on Kaggle test set in CSV format
+The best model (Neural Networks using MinMax scaling method) achieved:
+- **F1 Score**: 0.78746
+- 🏆 **Ranked 8th out of 39 teams**
 
 ---
 
