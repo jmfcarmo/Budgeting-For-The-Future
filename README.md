@@ -107,7 +107,8 @@ Algorithms tested:
 
 ```bash
 .
-├── data/                    # Contains train/test datasets
+├── train/                   # dataset to traing the model
+├── test/                    # dataset to test the model
 ├── notebook/                # Jupyter notebooks with full analysis
 ├── output/                  # CSV submission file
 ├── README.md                # Project overview
